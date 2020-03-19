@@ -11,3 +11,10 @@ This happy little repo aims to be place for the practical details for developing
  - [Python conventions](python.md)
  - [Project Management Practices When Using Scrum](scrum-project-management.md)
  - [Practices for Version Control](version-control.md)
+
+## Muutos
+
+tekstiä
+
+ - lista
+ - juttuja
