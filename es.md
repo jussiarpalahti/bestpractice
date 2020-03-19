@@ -1,4 +1,4 @@
-### ECMAScript/JS conventions
+# ECMAScript/JS conventions
 
 *   ES7 (with babel and polyfills), not Flow or TypeScript
 *   eslint with airbnb style guide
