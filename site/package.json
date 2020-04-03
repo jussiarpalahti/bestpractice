@@ -2,7 +2,7 @@
   "name": "site",
   "version": "0.5.5",
   "private": true,
-  "description": "Documentation for Helsinki Design System",
+  "description": "Documentation for Helsinki Developers",
   "license": "MIT",
   "workspaces": {
     "nohoist": [
