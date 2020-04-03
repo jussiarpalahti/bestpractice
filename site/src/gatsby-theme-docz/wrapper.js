@@ -6,7 +6,7 @@ import "./assets/index.css";
 const Wrapper = ({ children }) => (
   <React.Fragment>
     <Helmet>
-      <title>Helsinki Developer Portal</title>
+      <title>Helsinki Developers </title>
 
       <link
         rel="apple-touch-icon"

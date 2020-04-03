@@ -44,8 +44,8 @@ export const Sidebar = React.forwardRef((props, ref) => {
               textDecoration: "none"
             }}
           >
-            <img src={logo} alt="Helsinki Developer Portal" height="60" />
-            <div>Developer Portal</div>
+            <img src={logo} alt="Helsinki Developers" height="60" />
+            <div>Developers</div>
           </Link>
         </div>
         <NavSearch

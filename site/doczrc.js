@@ -8,7 +8,7 @@ const themeConfig = {
 };
 
 const menu = [
-  "Helsinki Developer Portal",
+  "Helsinki Developers",
   {
     name: "APIs",
   },
@@ -20,7 +20,7 @@ export default {
   public: "/static",
   typescript: true,
   files: "docs/**/*.{md,markdown,mdx}",
-  title: "Helsinki Developer Portal",
+  title: "Helsinki Developers",
   themeConfig,
   menu
 };
